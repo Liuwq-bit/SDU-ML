@@ -5,9 +5,7 @@
 任课老师： [Prof. Feng Li](https://funglee.github.io/)    |    课程网站：[Machine Learning](https://funglee.github.io/ml/ml.html)
 
 此仓库包含：
-
 - 作业解答
-
 - 实验代码（Python实现）
   - lab1: Linear Regression
   - lab2: Logistic Regression and Newton's Method

@@ -2,7 +2,7 @@
 
 山东大学计算机学院 | **限选课** | 机器学习（双语）
 
-任课老师： [Prof. Feng Li](https://funglee.github.io/)    |    课程网站：[Machine Learning](https://funglee.github.io/ml/ml.html)
+任课教师： [Prof. Feng Li](https://funglee.github.io/)    |    课程网站：[Machine Learning](https://funglee.github.io/ml/ml.html)
 
 此仓库包含：
 - 作业解答
@@ -14,6 +14,4 @@
   - lab5: SVM
   - lab6: K-Means
   - lab7: PCA in Face Detection
-
-==仅供参考，请勿抄袭==
 
